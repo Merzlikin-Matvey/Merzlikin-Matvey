@@ -12,5 +12,9 @@
 ### :man_technologist: About Me :
 
 - 📘: I'm studying to be a programmer
-- 🔥: In my free time I do mathematical animations
+- 🌳: In my free time I do mathematical animations
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Merzlikin-Matvey&theme=dark&background=000000)](https://git.io/streak-stats)
 
