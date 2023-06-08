@@ -11,3 +11,6 @@
 
 ### :man_technologist: About Me :
 
+- 📘: I'm studying to be a programmer
+- 🔥: In my free time I do mathematical animations
+
