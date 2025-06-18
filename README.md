@@ -6,7 +6,7 @@
 
 <div align="center" id="badges">
   <a href="https://www.youtube.com/@matveymerzlikin">
-    <img src="/assets/youtube.png" width="128" alt="Youtube Badge"/>
+    <img src="/assets/youtube.png" width="192px" alt="Youtube Badge"/>
   </a>
 </div>
 
