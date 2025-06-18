@@ -17,6 +17,14 @@
 ---
 <!--START_SECTION:waka-->
 
+```txt
+C++              5 hrs 59 mins   ███████████▓░░░░░░░░░░░░░   47.14 %
+Go               4 hrs 54 mins   █████████▓░░░░░░░░░░░░░░░   38.53 %
+Dockerfile       29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+Python           22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Shell Script     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+```
+
 <!--END_SECTION:waka-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Merzlikin-Matvey&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
