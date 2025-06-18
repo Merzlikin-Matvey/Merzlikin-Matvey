@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Matvey</a> 
+<h1 align="center">Hi, I'm Matvey</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -15,6 +15,9 @@
 - 🌳: In my free time I do mathematical animations
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Merzlikin-Matvey&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Merzlikin-Matvey&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
