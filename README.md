@@ -18,7 +18,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Jupyter   16 mins         ████████████████████░░░░░   79.96 %
+Python    4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.53 %
+Text      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
